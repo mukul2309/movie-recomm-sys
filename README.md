@@ -2,9 +2,6 @@
 
 This project implements a movie recommendation system using collaborative filtering. It suggests similar movies based on the user's selection.
 
-## Try it Online!
-
-Click [here](https://movie-recomm-qkykjlka6capvappfnu9rme.streamlit.app/) to try the movie recommendation system online!
 
 ## Overview
 
