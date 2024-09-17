@@ -22,7 +22,7 @@ To run this application locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/mukul-mistry/movie-recomm.git
+   git clone https://mukulmistry1@bitbucket.org/projects-cse/movie-recomm-sys.git
    
 2. Install the required dependencies:
    pip install -r requirements.txt
